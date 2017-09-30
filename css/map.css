@@ -1,0 +1,9 @@
+
+#map {
+  position: absolute;
+  right: 25%;
+  width: 700px;
+  height: 500px;
+  border: 1px solid #a0a0a0;
+  margin: right;
+}
