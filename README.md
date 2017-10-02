@@ -19,7 +19,7 @@ XAMPP V3.2.2
 
 Arduino ATMega 2560
 
-Sensors (This project is adaptable to any sensors, just needs to be tweeked the tables in the database to add new types of sensors if they dont exist already)
+Sensors (This project is adaptable to any sensors, just needs to be tweaked the tables in the database to add new types of sensors if they dont exist already)
 ```
 *Software:
 
@@ -30,7 +30,7 @@ Python 3.6
 
 ## Authors
 
-* **Tiago Catarino** - *Academic Project - Arduino feeds Data into database* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Tiago Catarino** - *Academic Project - Arduino feeds Data into database*
 
 
 
