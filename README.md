@@ -4,7 +4,7 @@ This is a  proof of concept of an Academic project,  on a Arduino device setup w
 
 ## Getting Started
 
-This project had three parts, acquiring the data with the Arduino, storing in the database and reading it to the frontend. For testing purposes I have supplied an examplery database.
+This project had three parts, acquiring the data with the Arduino, storing in the database and showing the data in the frontend. For testing purposes I have supplied an examplery database.
 Setup a localhost, in this scenario I took the liberty of using xampp, since it included everything I needed for the project. Import the databaseExample.sql into the phpmyadmin from xampp, open up the index.php on any browser and everything should be setup.
 
 ### Prerequisites
