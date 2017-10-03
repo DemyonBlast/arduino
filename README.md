@@ -1,6 +1,6 @@
 # Arduino+Sensors with frontend
 
-This is a  proof of concept of a Academic project,  on a Arduino device setup with several sensors that receive data from the environment around them and being displayed on a front created with PHP OOP and Javascript.
+This is a  proof of concept of an Academic project,  on a Arduino device setup with several sensors that receive data from the environment around them and is displayed in a front created with PHP OOP and Javascript.
 
 ## Getting Started
 
